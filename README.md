@@ -5,7 +5,7 @@
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Okakakai&show_icons=true&include_all_commits=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Okakakai&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Okakakai&layout=compact&theme=tokyonight" />
 </div>
 
 ### ポートフォリオ
