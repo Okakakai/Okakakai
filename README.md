@@ -11,9 +11,6 @@
 ### ポートフォリオ
 - Finger pay
     - https://github.com/Okakakai/fingerpay-frontend
-- Shikosai
-    - ホームページ https://4i-escape-room.studio.site/
-    - PV https://twitter.com/4I_shikosai2022/status/1580731648873623553
 - サッカープレイヤー管理ツール
     - https://github.com/Okakakai/Django-FootballAPI-prac
 - ねぶた
